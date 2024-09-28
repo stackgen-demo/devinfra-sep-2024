@@ -1,12 +1,8 @@
-# devinfra-sep-2024-beta
+# devinfra-sep-2024
 
-Once this is ready, will do a fresh commit in a public repo.
+- Join the Slack Community: [https://devinfra-days.slack.com](https://join.slack.com/t/devinfra-days/shared_invite/zt-2rh8wcn79-HE_L4kmR2ZAc~NWpegs2hQ)
 
-
-# Slack 
-
-https://devinfra-days.slack.com
-
+- Hands-on workshop repository: https://github.com/appcd-demo/hello-kitty
 
 # Sandbox
 
