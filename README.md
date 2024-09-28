@@ -20,3 +20,12 @@ https://cloud.stackgen.com
 ## Sandbox
 
 https://github.com/appcd-demo/workshop-sandbox
+
+## Agenda
+
+- 12:00: Serverless in a Flash: Build Fast, Deploy Faster: Arshad & Yusuf K
+- 12:45: Generative Infrastructure from Code & Live Demo: Deploying Python on AWS Lambda: Yusuf K
+- 13:30: Lunch
+- 14:15: Workshop: Your App on AWS Lambda: Sangam Biradar
+- 15:30: Tea Break
+- 16:00: Setting the Stage for Serverless Success: Niraj Palecha
